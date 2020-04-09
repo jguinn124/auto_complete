@@ -1,12 +1,12 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import HideableText from './AutoCompleteText.js';
+import AutoCompleteText from './AutoCompleteText.js';
 
 function App() {
   return (
     <div className="App">
-      
+      <AutoCompleteText />
     </div>
   );
 }
