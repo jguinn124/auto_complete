@@ -15,12 +15,12 @@ export default class AutoCompleteText extends React.Component {
 
 	onTextChange = (e) => {
 		const value = e.target.value;
-		if (this.value === 0){
-			this.setState(( => ({
-				
-			})))
+		let suggestions = [];
+		if (value.length > 0){
+			const regex = new RegExp(`^${value}`, `i`);
+			suggestions = this.items.sort().filter(v => v.test(regex));
 		}
-
+		this.setState(() => ({ suggestions }));
 	}
 
 		render () {
