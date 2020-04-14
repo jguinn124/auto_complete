@@ -1,154 +1,154 @@
 export default`Aberdeen
-Abilene
-Akron
-Albany
-Albuquerque
-Alexandria
-Allentown
-Amarillo
-Anaheim
-Anchorage
-Ann Arbor
-Antioch
-Apple Valley
-Appleton
-Arlington
-Arvada
-Asheville
-Athens
-Atlanta
-Atlantic City
-Augusta
-Aurora
-Austin
-Bakersfield
-Baltimore
-Barnstable
-Baton Rouge
-Beaumont
-Bel Air
-Bellevue
-Berkeley
-Bethlehem
-Billings
-Birmingham
-Bloomington
-Boise
-Boise City
-Bonita Springs
-Boston
-Boulder
-Bradenton
-Bremerton
-Bridgeport
-Brighton
-Brownsville
-Bryan
-Buffalo
-Burbank
-Burlington
-Cambridge
-Canton
-Cape Coral
-Carrollton
-Cary
-Cathedral City
-Cedar Rapids
-Champaign
-Chandler
-Charleston
-Charlotte
-Chattanooga
-Chesapeake
-Chicago
-Chula Vista
-Cincinnati
-Clarke County
-Clarksville
-Clearwater
-Cleveland
-College Station
-Colorado Springs
-Columbia
-Columbus
-Concord
-Coral Springs
-Corona
-Corpus Christi
-Costa Mesa
-Dallas
-Daly City
-Danbury
-Davenport
-Davidson County
-Dayton
-Daytona Beach
-Deltona
-Denton
-Denver
-Des Moines
-Detroit
-Downey
-Duluth
-Durham
-El Monte
-El Paso
-Elizabeth
-Elk Grove
-Elkhart
-Erie
-Escondido
-Eugene
-Evansville
-Fairfield
-Fargo
-Fayetteville
-Fitchburg
-Flint
-Fontana
-Fort Collins
-Fort Lauderdale
-Fort Smith
-Fort Walton Beach
-Fort Wayne
-Fort Worth
-Frederick
-Fremont
-Fresno
-Fullerton
-Gainesville
-Garden Grove
-Garland
-Gastonia
-Gilbert
-Glendale
-Grand Prairie
-Grand Rapids
-Grayslake
-Green Bay
-GreenBay
-Greensboro
-Greenville
-Gulfport-Biloxi
-Hagerstown
-Hampton
-Harlingen
-Harrisburg
-Hartford
-Havre de Grace
-Hayward
-Hemet
-Henderson
-Hesperia
-Hialeah
-Hickory
-High Point
-Hollywood
-Honolulu
-Houma
-Houston
-Howell
-Huntington
+Abilene, TX, US
+Akron, OH, US
+Albany, NY, US
+Albuquerque, NM, US
+Alexandria, LA, US
+Allentown, PA, US
+Amarillo, TX, US
+Anaheim, CA, US
+Anchorage, AK, US
+Ann Arbor, MI, US
+Antioch, CA, US
+Apple Valley, CA, US
+Appleton, WI, US
+Arlington, TX, US
+Arvada, CO, US
+Asheville, NC, US
+Athens, GA, US
+Atlanta, GA, US
+Atlantic City, NJ, US
+Augusta, GA, US
+Aurora, CO, US
+Austin, TX, US
+Bakersfield, CA, US
+Baltimore, MD, US
+Barnstable, MA, US
+Baton Rouge, LA, US
+Beaumont, TX, US
+Bel Air, MD, US
+Bellevue, WA, US
+Berkeley, CA, US
+Bethlehem, PA, US
+Billings, MT, US
+Birmingham, AL, US
+Bloomington, IL, US
+Boise, ID, US
+Boise City, ID, US
+Bonita Springs, FL, US
+Boston, MA, US
+Boulder, CO, US
+Bradenton, FL, US
+Bremerton, WA, US
+Bridgeport, CT, US
+Brighton, IL, US
+Brownsville, TX, US
+Bryan, TX, US
+Buffalo, NY, US
+Burbank, CA, US
+Burlington, VT, US
+Cambridge, MA, US
+Canton, OH, US
+Cape Coral, FL, US
+Carrollton, TX, US
+Cary, NC, US
+Cathedral City, CA, US
+Cedar Rapids, IA, US
+Champaign, IL, US
+Chandler, AZ, US
+Charleston, SC, US
+Charlotte, NC, US
+Chattanooga, TN, US
+Chesapeake, VA, US
+Chicago, IL, US
+Chula Vista, CA, US
+Cincinnati, OH, US
+Clarke County, AL, US
+Clarksville, TN, US
+Clearwater, OK, US
+Cleveland, OH, US
+College Station, TX, US
+Colorado Springs, CO, US
+Columbia, MO, US
+Columbia, SC, US
+Columbus, OH, US
+Concord, CA, US
+Coral Springs, FL, US
+Corona, CA, US
+Corpus Christi, TX, US
+Costa Mesa, CA, US
+Dallas, TX, US
+Daly City, CA, US
+Danbury, CT, US
+Davenport, IA, US
+Davidson County, TN, US
+Dayton, OH, US
+Daytona Beach, FL, US
+Deltona, FL, US
+Denton, TX, US
+Denver, CO, US
+Des Moines, IA, US
+Detroit, MI, US
+Downey, CA, US
+Duluth, MN, US
+Durham, NC, US
+El Monte, CA, US
+El Paso, TX, US
+Elizabeth, NJ, US
+Elk Grove, CA, US
+Elkhart, IN, US
+Erie, PA, US
+Escondido, CA, US
+Eugene, OR, US
+Evansville, IN, US
+Fairfield, OH, US
+Fargo, ND, US
+Fayetteville, NC, US
+Fitchburg, MA, US
+Flint, MI, US
+Fontana, CA, US
+Fort Collins, CO, US
+Fort Lauderdale, FL, US
+Fort Smith, AR, US
+Fort Walton Beach, FL, US
+Fort Wayne, IN, US
+Fort Worth, TX, US
+Frederick, MD, US
+Fremont, CA, US
+Fresno, CA, US
+Fullerton, CA, US
+Gainesville, FL, US
+Garden Grove, CA, US
+Garland, TX, US
+Gastonia, NC, US
+Gilbert, AZ, US
+Glendale, AZ, US
+Grand Prairie, TX, US
+Grand Rapids, MI, US
+Grayslake, IL, US
+Green Bay, WI, US
+Greensboro, NC, US
+Greenville, SC, US
+Gulfport-Biloxi, MS, US
+Hagerstown, MD, US
+Hampton, VA, US
+Harlingen, TX, US
+Harrisburg, PA, US
+Hartford, CT, US
+Havre de Grace, MD, US
+Hayward, CA, US
+Hemet, CA, US
+Henderson, NV, US
+Hesperia, CA, US
+Hialeah, FL, US
+Hickory, NC, US
+High Point, NC, US
+Hollywood, CA, US
+Honolulu, HI, US
+Houma, LA, US
+Houston, TX, US
+Howell, MI, US
+Huntington, WV, US
 Huntington Beach
 Huntsville
 Independence
