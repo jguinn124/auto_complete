@@ -1,4 +1,4 @@
-export `Aberdeen
+export default`Aberdeen
 Abilene
 Akron
 Albany
