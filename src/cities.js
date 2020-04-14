@@ -382,4 +382,4 @@ Worcester
 Yakima
 Yonkers
 York
-Youngstown`.split(\n);
+Youngstown`.split('\n');
