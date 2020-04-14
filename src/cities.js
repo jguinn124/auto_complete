@@ -149,64 +149,64 @@ Houma, LA, US
 Houston, TX, US
 Howell, MI, US
 Huntington, WV, US
-Huntington Beach
-Huntsville
-Independence
-Indianapolis
-Inglewood
-Irvine
-Irving
-Jackson
-Jacksonville
-Jefferson
-Jersey City
-Johnson City
-Joliet
-Kailua
-Kalamazoo
-Kaneohe
-Kansas City
-Kennewick
-Kenosha
-Killeen
-Kissimmee
-Knoxville
-Lacey
-Lafayette
-Lake Charles
-Lakeland
-Lakewood
-Lancaster
-Lansing
-Laredo
-Las Cruces
-Las Vegas
-Layton
-Leominster
-Lewisville
-Lexington
-Lincoln
-Little Rock
-Long Beach
-Lorain
-Los Angeles
-Louisville
-Lowell
-Lubbock
-Macon
-Madison
-Manchester
-Marina
-Marysville
-McAllen
-McHenry
-Medford
-Melbourne
-Memphis
-Merced
-Mesa
-Mesquite
-Miami
+Huntington Beach, CA, US
+Huntsville, AL, US
+Independence, MO, US
+Indianapolis, IN, US
+Inglewood, CA, US
+Irvine, CA, US
+Irving, TX, US
+Jackson, MS, US
+Jacksonville, FL, US
+Jefferson, WI, US
+Jersey City, NJ, US
+Johnson City, TN, US
+Joliet, IL, US
+Kailua, HI, US
+Kalamazoo, MI, US
+Kaneohe, HI, US
+Kansas City, MO, US
+Kennewick, WA, US
+Kenosha, WI, US
+Killeen, TX, US
+Kissimmee, FL, US
+Knoxville, TN, US
+Lacey, WA, US
+Lafayette, LA, US
+Lake Charles, LA, US
+Lakeland, Fl, US
+Lakewood, CO, US
+Lancaster, PA, US
+Lansing, MI, US
+Laredo, TX, US
+Las Cruces, NM, US
+Las Vegas, NV, US
+Layton, UT, US
+Leominster, MA, US
+Lewisville, TX, US
+Lexington, KY, US
+Lincoln, NE, US
+Little Rock, AR, US
+Long Beach, CA, US
+Lorain, OH, US
+Los Angeles, CA, US
+Louisville, KY, US
+Lowell, MA, US
+Lubbock, TX, US
+Macon, GA, US
+Madison, WI, US
+Manchester, MO, US
+Marina, CA, US
+Marysville, WA, US
+McAllen, TX, US
+McHenry, IL, US
+Medford, OR, US
+Melbourne, FL, US
+Memphis, TN, US
+Merced, CA, US
+Mesa, AZ, US
+Mesquite, NV, US
+Miami, FL, US
 Milwaukee
 Minneapolis
 Miramar
