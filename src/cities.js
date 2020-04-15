@@ -207,179 +207,152 @@ Merced, CA, US
 Mesa, AZ, US
 Mesquite, NV, US
 Miami, FL, US
-Milwaukee
-Minneapolis
-Miramar
-Mission Viejo
-Mobile
-Modesto
-Monroe
-Monterey
-Montgomery
-Moreno Valley
-Murfreesboro
-Murrieta
-Muskegon
-Myrtle Beach
-Naperville
-Naples
-Nashua
-Nashville
-New Bedford
-New Haven
-New London
-New Orleans
-New York
-New York City
-Newark
-Newburgh
-Newport News
-Norfolk
-Normal
-Norman
-North Charleston
-North Las Vegas
-North Port
-Norwalk
-Norwich
-Oakland
-Ocala
-Oceanside
-Odessa
-Ogden
-Oklahoma City
-Olathe
-Olympia
-Omaha
-Ontario
-Orange
-Orem
-Orlando
-Overland Park
-Oxnard
-Palm Bay
-Palm Springs
-Palmdale
-Panama City
-Pasadena
-Paterson
-Pembroke Pines
-Pensacola
-Peoria
-Philadelphia
-Phoenix
-Pittsburgh
-Plano
-Pomona
-Pompano Beach
-Port Arthur
-Port Orange
-Port Saint Lucie
-Port St. Lucie
-Portland
-Portsmouth
-Poughkeepsie
-Providence
-Provo
-Pueblo
-Punta Gorda
-Racine
-Raleigh
-Rancho Cucamonga
-Reading
-Redding
-Reno
-Richland
-Richmond
-Richmond County
-Riverside
-Roanoke
-Rochester
-Rockford
-Roseville
-Round Lake Beach
-Sacramento
-Saginaw
-Saint Louis
-Saint Paul
-Saint Petersburg
-Salem
-Salinas
-Salt Lake City
-San Antonio
-San Bernardino
-San Buenaventura
-San Diego
-San Francisco
-San Jose
-Santa Ana
-Santa Barbara
-Santa Clara
-Santa Clarita
-Santa Cruz
-Santa Maria
-Santa Rosa
-Sarasota
-Savannah
-Scottsdale
-Scranton
-Seaside
-Seattle
-Sebastian
-Shreveport
-Simi Valley
-Sioux City
-Sioux Falls
-South Bend
-South Lyon
-Spartanburg
-Spokane
-Springdale
-Springfield
-St. Louis
-St. Paul
-St. Petersburg
-Stamford
-Sterling Heights
-Stockton
-Sunnyvale
-Syracuse
-Tacoma
-Tallahassee
-Tampa
-Temecula
-Tempe
-Thornton
-Thousand Oaks
-Toledo
-Topeka
-Torrance
-Trenton
-Tucson
-Tulsa
-Tuscaloosa
-Tyler
-Utica
-Vallejo
-Vancouver
-Vero Beach
-Victorville
-Virginia Beach
-Visalia
-Waco
-Warren
-Washington
-Waterbury
-Waterloo
-West Covina
-West Valley City
-Westminster
-Wichita
-Wilmington
-Winston
-Winter Haven
-Worcester
-Yakima
-Yonkers
-York
-Youngstown`.split('\n');
+Milwaukee, WI, US
+Minneapolis, MN, US
+Miramar, FL, US
+Mission Viejo, CA, US
+Mobile, AL, US
+Modesto, CA, US
+Monroe, LA, US
+Monterey, CA, US
+Montgomery, AL, US
+Moreno Valley, CA, US
+Myrtle Beach, SC, US
+Naperville, IL, US
+Naples, FL, US
+Nashua, NH, US
+Nashville, TN, US
+New Bedford, MA, US
+New Haven, CT, US
+New London, CT, US
+New Orleans, LA, US
+New York City, NY, US
+Newark, NJ, US
+Newburgh, NY, US
+Newport News, VA, US
+Norfolk, VA, US
+Normal, IL, US
+Norman, OK, US
+North Charleston, SC, US
+Norwalk, CT, US
+Norwich, CT, US
+Oakland, CA, US
+Ocala, FL, US
+Oceanside, CA, US
+Odessa, MO, US
+Ogden, UT, US
+Oklahoma City, OK, US
+Olathe, KS, US
+Olympia, WA, US
+Omaha, NE, US
+Orem, UT, US
+Orlando, FL, US
+Overland Park, KS, US
+Oxnard, CA, US
+Palm Springs, CA, US
+Palmdale, CA, US
+Panama City, FL, US
+Pasadena, CA, US
+Paterson, NJ, US
+Pensacola, FL, US
+Peoria, IL, US
+Philadelphia, PA, US
+Phoenix, AZ, US
+Pittsburgh, PA, US
+Plano, TX, US
+Pomona, CA, US
+Pompano Beach, FL, US
+Port Arthur, TX, US
+Port Saint Lucie, FL, US
+Portland, OR, US
+Portsmouth, NH, US
+Poughkeepsie, NY, US
+Providence, RI, US
+Provo, UT, US
+Pueblo, CO, US
+Punta Gorda, FL, US
+Racine, WI, US
+Raleigh, NC, US
+Redding, CA, US
+Reno, NV, US
+Richland, WA, US
+Richmond, VA, US
+Riverside, CA, US
+Roanoke, VA, US
+Rochester, NY, US
+Rockford, IL, US
+Roseville, CA, US
+Sacramento, CA, US
+Saginaw, MI, US
+Saint Louis, MO, US
+St. Louis, MO, US
+Saint Paul, MN, US
+Salem, OR, US
+Salinas, CA, US
+Salt Lake City, UT, US
+San Antonio, TX, US
+San Bernardino, CA, US
+San Buenaventura, CA, US
+San Diego, CA, US
+San Francisco, CA, US
+San Jose, CA, US
+Santa Ana, CA, US
+Santa Barbara, CA, US
+Santa Clara, CA, US
+Santa Cruz, CA, US
+Santa Maria, CA, US
+Sarasota, FL, US
+Savannah, GA, US
+Scottsdale, AZ, US
+Scranton, PA, US
+Seaside, OR, US
+Seattle, WA, US
+Sebastian, FL, US
+Shreveport, LA, US
+Simi Valley, CA, US
+Sioux City, IA, US
+Sioux Falls, SD, US
+South Bend, IN, US
+South Lyon, MI, US
+Spartanburg, SC, US
+Spokane, WA, US
+Springdale, AR, US
+Springfield, MO, US
+Stamford, CT, US
+Sterling Heights, MI, US
+Stockton, CA, US
+Sunnyvale, CA, US
+Syracuse, NY, US
+Tacoma, WA, US
+Tallahassee, FL, US
+Tampa, FL, US
+Tempe, AZ, US
+Thornton, CO, US
+Thousand Oaks, CA, US
+Toledo, OH, US
+Topeka, KS, US
+Torrance, CA, US
+Trenton, NJ, US
+Tucson, AZ, US
+Tulsa, OK, US
+Tuscaloosa, AL, US
+Utica, NY, US
+Vallejo, CA, US
+Virginia Beach, VA, US
+Waco, TX, US
+Warren, MI, US
+Washington, DC, US
+Waterloo, IA, US
+Westminster, CO, US
+Wichita, KS, US
+Winston, NC, US
+Winter Haven, FL, US
+Worcester, MA, US
+Yakima, WA, US
+Yonkers, NY, US
+York, PA, US
+St. Charles, MO, US
+St. Peters, MO, US
+Chesterfield, MO, US
+Washington, MO, US
+Youngstown, OH, US`.split('\n');
